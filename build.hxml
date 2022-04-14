@@ -1,9 +1,9 @@
 --class-path src/compiler
 --main Main
---cs bin/compiler
+--cs compiler
 
 --next
 
 --class-path src/executor
 --main Main
---cs bin/executor
+--cs executor
