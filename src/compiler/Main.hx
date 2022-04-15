@@ -1,10 +1,7 @@
 package;
 
-import sys.FileSystem;
 import sys.io.File;
 import haxe.io.Path;
-import haxe.io.Bytes;
-import haxe.crypto.BaseCode;
 
 using StringTools;
 
